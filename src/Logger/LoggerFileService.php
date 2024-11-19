@@ -1,5 +1,5 @@
 <?php
-namespace Service\Logger;
+namespace Core\Logger;
 
 class LoggerFileService implements LoggerServiceInterface
 {

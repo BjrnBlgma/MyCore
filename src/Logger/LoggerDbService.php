@@ -1,6 +1,6 @@
 <?php
 
-namespace Service\Logger;
+namespace Core\Logger;
 
 use Model\Logger;
 

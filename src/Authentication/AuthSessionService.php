@@ -1,5 +1,5 @@
 <?php
-namespace Service\Authentication;
+namespace Core\Authentication;
 use Model\User;
 
 class AuthSessionService implements AuthServiceInterface
