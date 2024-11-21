@@ -1,9 +1,7 @@
 <?php
 namespace Core;
 
-use Service\Logger\LoggerFileService;
-use Service\Logger\LoggerServiceInterface;
-use Service\Authentication\AuthServiceInterface;
+use Core\Logger\LoggerServiceInterface;
 use Core\Container;
 
 class App
